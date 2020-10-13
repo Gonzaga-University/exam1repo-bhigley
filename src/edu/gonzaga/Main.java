@@ -10,7 +10,7 @@ class Adder {
     }
 
     public Adder() {
-
+        val1 = 0;
     }
 
 }
